@@ -50,7 +50,7 @@ Unsupervised learning is a bit different from supervised learning. Instead of te
 
 In unsupervised learning, the computer tries to figure out patterns and group similar pictures together on its own. For example, it might notice that some pictures have features like pointy ears and small noses, while others have different features, and it groups these pictures into clusters.
 
-![Supervised Learning](src/unsupervised_learning.png)
+![Unsupervised Learning](src/unsupervised_learning.png)
 
 So, if you show the computer many pictures without labels, it might end up creating its own categories, like one group for pictures with certain features and another group for different features. It’s like letting the computer explore and organize the information by itself.
 
