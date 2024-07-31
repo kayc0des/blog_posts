@@ -42,7 +42,7 @@ Just like a child learns to recognize animals by seeing many samples and being t
 
 ![Supervised Learning](src/supervised_learning.png)
 
-### Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs (Mahesh, 2019).
+**Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs (Mahesh, 2019).**
 
 ## Unsupervised Learning
 
@@ -54,7 +54,7 @@ In unsupervised learning, the computer tries to figure out patterns and group si
 
 So, if you show the computer many pictures without labels, it might end up creating its own categories, like one group for pictures with certain features and another group for different features. It’s like letting the computer explore and organize the information by itself.
 
-### In unsupervised learning, the system tries to learn without a teacher (Géron, 2017).
+**In unsupervised learning, the system tries to learn without a teacher (Géron, 2017).**
 
 ## Semi Supervised Learning
 
@@ -62,7 +62,7 @@ Semi-supervised learning is a blend of supervised and unsupervised learning. Ima
 
 In this approach, you use the labeled pictures to teach the computer about what cats and dogs look like. Then, the computer also examines the unlabeled pictures to find patterns and make sense of them. This helps the computer learn more effectively by combining the guidance from labeled data with the extra information from the unlabeled data.
 
-### Semi-supervised learning is a machine learning method that uses a small amount of labeled data and a larger amount of unlabeled data to improve learning accuracy. The labeled data helps guide the learning process, while the unlabeled data helps the model understand the structure of the data better.
+**Semi-supervised learning is a machine learning method that uses a small amount of labeled data and a larger amount of unlabeled data to improve learning accuracy. The labeled data helps guide the learning process, while the unlabeled data helps the model understand the structure of the data better.**
 
 ## Reinforcement Learning
 
@@ -70,7 +70,7 @@ Reinforcement learning is like teaching a computer through trial and error, simi
 
 As the robot moves around, it receives feedback in the form of rewards or penalties. For example, it might get a reward for moving closer to the exit and a penalty for hitting a wall. Over time, the robot learns which actions lead to rewards and which ones lead to penalties. It uses this experience to make better decisions and find the best path to the exit.
 
-### Reinforcement learning is a type of machine learning where an agent learns to make decisions by performing actions in an environment, receiving rewards or penalties based on those actions, and using that feedback to improve its future decisions.
+**Reinforcement learning is a type of machine learning where an agent learns to make decisions by performing actions in an environment, receiving rewards or penalties based on those actions, and using that feedback to improve its future decisions.**
 
 ## When to use Machine Learning
 
